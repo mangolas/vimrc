@@ -19,7 +19,11 @@ Bundle 'tpope/vim-haml'
 Bundle 'tpope/vim-classpath'
 Bundle 'guns/vim-clojure-static'
 "Bundle 'rosstimson/scala-vim-support'
+Bundle 'vim-ruby/vim-ruby'
+
 " Tools
+Bundle 'dhazel/conque-term'
+Bundle 'skwp/vim-ruby-conque'
 Bundle 'scrooloose/nerdcommenter'
 Bundle 'ervandew/supertab'
 Bundle 'tpope/vim-fugitive'
